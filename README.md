@@ -1,6 +1,9 @@
 # Minecraft Launcher On Python
-To start And compile this launcher you must install Flet lib
+To start And compile this launcher you must install Flet, random username, uuid lib
 pip install flet
+pip install random-username
+pip install uuid
+
 and minecraft launcher lib
 pip install minecraft-launcher-lib
 
