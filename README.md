@@ -12,6 +12,7 @@ and minecraft launcher lib
 "pip install minecraft-launcher-lib"
 
 To start launcher you must open Launcher.py file
+
 To compile you must install pyinstaller
 
 "pip install pyinstaller"
